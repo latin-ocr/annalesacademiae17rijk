@@ -1,0 +1,48 @@
+³4 L10N1s SALOMONIS vm PRAAG
+
+LEX Ι.
+
+Spatia, a corpore libere cadente successivis aequalibus temporibus percursa, sunt inter
+se in racione: Numerormn imparium 1, 3, 5, 7, 9, etc.
+
+DEMONSTRATIO.
+
+Ex iis, quae in principio diximus, liquet, spatia a corporibus motis percursa gene·
+‘statim esse inter se in ratione composita velocitatis et tempori& Quam ob rem si velo-
+citas Ξ V, tempus Ξ T, et spatium = S, erit S = V >< Τ.
+
+Exprimat jam AC, in Tabulae Fig. 3, tempus perexiguum, quo corpus libere cadens
+velocitate perexigua CD, sive AB, descendit. Spatium tempore istoc, eAque velocitate,
+percursum erit = AC >< CD, adeoque poterit exprimi Parauexogrammo ABDC.
+
+Sit CE tempus secundum primo aequale. Tunc corporis velocitati CD, jam acqui-
+sitae, ad finem istius lapsus accedet velocitas DF = CD. Erit itaque spatium istoc
+tempore percursam = CE >< CF Ξ CFGE.
+
+,Tertio temporis spatio ΕΗ ad velocitatem EG Ξ CF accedet GI. Motus itaque fit
+per velocitatem HK Ξ ΕΙ. Consequenter spatium tertio hoc tempore percursum erit
+Ξ ΕΗ >< HK Ξ [Ξ] EHKI.
+
+Pariter quarto tempore percussum spatium est = Ξ] HMNL etc.
+
+Possunt itaque spatia percursa temporibus successivis aeque exprim-ii per ΕΙ ABDC
+ΕΣ] CFGE Ε] ΕΗΚΙ [Ξ] HMNL etc. Posterioribus jam Parallelogt. divisis in Paralle-
+logr. minora, quorum quodvis Ξ 111 ABDC, crit tota Figura AOPUNMKlGFDss, qui-
+
+bus comprehenduntur Ξ Δ AOP 4 summa Triangulorum reliquorum ABD, DFG.
+GIK, KMN et NUP. Hi jam Trianguli tanto sunt minores, quanto minus ponatur
+
+primum tempus AC, unzi cum prima velocitate CD Ξ ΑΒ; ita ut A ACP pro {limi-
+te (*) totius Figurae externae sit habendum. Quapropter spatia percursa temporibus
+successivis aeque poterunt exprimi per A AC'D, trapcz. CDGE, trapez. EGKH etc.
+Quandoquidem jam A ACD Ξ 1 A ABD
+trapez. CDGE Ξ 3 A ABD
+
+trapez. EGKH Ξ 5 A ABD etc.
+§e-
+
+(⁸> Hac de re plura apud CI. van Sn‘ifltch Grondbeg. asar Meetk. edit. novissimae
+Lib. VH. Prop. 3. Aamnerst
+
+ 
+

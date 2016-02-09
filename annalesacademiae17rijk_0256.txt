@@ -1,0 +1,47 @@
+6 AnnAtlAsMI MOOLENAAR
+3⁰. Ergo angulus LC'C z 64ο 44’;11”,6.
+
+Si iam planum transiret per Leydam ‚ Cap Comorin et canton, i. e. pe, punem*
+
+L, C, C‘, erit triangulum computatum in illo plano et inscriptum circulo ‚ cujus area
+est basis segmenti adhuc determinandi. ’
+
+·Quaeritur primo radius hujus circuli, triangulo memorato circumscripti. ⁴Angulus
+CLC' in circumferentia est dimidium anguli in centro CbC'
+
+seu radius t Q = 1 ε Sin. Δ CLC‘
+
+ 
+
+Ω,
+Ergo radius Ξ ——C—;C—- Ξ SRB—Q‘QS'GQ = 0266065 Ξ Sin. 41⁰ ω’ 51‘'‚3.
+. 28 56 22 ‚2
+Sin. ACLC‘
+
+Tabula I 11.
+
+Hinc si e centro Telluris A ducatur linea per b, centrum huius plani circularis, et
+
+protendatur usque ad Telluris superficiem B, facile determinatur altitudo hujus segmenti
+Bb, ut et ejus distantia a Telluris centro Ab, nam
+
+bc radius circuli circumscripti est sinus arcus BC, vel
+sinus anguli CAB Ξ Sin. 41⁰ 20' 51“‚3 = 0,66065.
+
+Hine deducitur valor ipsius Ab, quae linea est Cosinus arcus Bc,
+vel anguli CAB = Cos. 410 ω’ 51'‘‚3 Ξ o‚750716.
+
+Si auferatur haec quantitas a radio telluris AB ‚ remanet
+altitudo segmenti ΒόΞΑΒ - Ab Ξ 1 — 0‚750716 Ξ 0,249284.
+
+Capacitas segmenti facile determinatur, dum sit cognita altitudo segmenti, quae in
+computatione sequente exponitur per literam H, ut conferri possit formula apud Cl.
+van Swinden, Geometr. Libri XII Propositione 35, pag. 547, ubi axis sphaerae, nostro
+in casu axis telluriS, exprimitur per literam A = 2R Ξ 2.
+
+π vero designat circumferentiam circuli, si diameter aequat unitatem.
+
+Ergo
+
+ 
+

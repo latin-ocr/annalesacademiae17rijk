@@ -1,0 +1,43 @@
+RESPONSIO u> QUAESTIONEM ASTRQNOMICAM. Π,
+
+Horologio constructo, computantur distantiae linearum horariarum ι stylo Psc ope
+formulae sequentis:
+
+Cotang. PC 0 = Cotang. PCS Χ Cosin. SP 0
+= Cotang. 330 32² >< Cos. 1010 36' 50⁰
+= Cotang. ¹J0⁶⁰ 53‘ 50¹'
+
+Porro eotang. PC XI = Cotang. PCS >< Cosin. SP XI
+= Cotang. 330 32‘ >< Cos. (1010 36¹ 50'‘ -ο 150)
+= Cotang. 33⁰ 32¹ >< Cos. 860 36¹ 50¹¹
+= Cotang. 840 54' 20¹¹ ⁷
+
+Hinc angulus, ,
+
+OrIentale PC 0 :- 1060 53‘ 50'‘ ε PC 0 Occidentale
+PC XI 840 54‘ ‘20¹' = PC I
+
+PC X 640 μ’ 5ο” ..-’. PC 11
+
+PC IX = 500 17¹ 50⁶ =j PC ΙΙΙ
+2 PC VIII = 410 33‘ 10⁰ z PC IV
+Ι PC VII τ.. 360 32‘ 50⁰ = PC V
+t “ PC VI = 340 4¹ 50⁰ ε.- PC vl
+
+PC V =—330 34¹ 50'‘ z PC VII
+PC IV =-‘-340 55‘ 40⁰ = PC VIII.
+
+Duo anguli ultimi sunt quantitates negativae, ergo in figuraxantummodo lineis ¹puncta-
+
+tis indicantur, et constructio, quae in horologiis adhuc restat, eodein modo perficitur
+
+’ · ac si essent quantitates positivae3 nam haee .Iineae sunt respectu roliquar11m0 uti sunt
+lineae antemeridianae respectu linearum postmeridianum, in solariis jam memoratis.
+
+Tabula V11. Solarium Dodecao'dri meridionale.
+
+Ex computatione hujus solarii constat, elevationem s'tyli seu angulum PCS aequare
+64⁰ 24' 28'·
+
+:1‘11 B 2 Ope
+
